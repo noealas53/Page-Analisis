@@ -39,7 +39,7 @@ export default function User() {
         <>
             <div className="flex justify-center items-center min-h-screen flex-col bg-gradient-to-r from-gray-300 to-red-200">
                 <button className="bg-gray-200 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full mb-4" onClick={EnterFavorite}>
-                    Favorites
+                    Principal
                 </button>
                 <button className="bg-gray-200 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full mb-4" onClick={EnterHandler}>
                     Exit
